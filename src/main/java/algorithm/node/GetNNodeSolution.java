@@ -1,6 +1,8 @@
 package algorithm.node;
 
 
+import algorithm.node.bean.ListNode;
+import algorithm.node.util.ListNodeUtil;
 
 /**
  *  获取链表第N个元素

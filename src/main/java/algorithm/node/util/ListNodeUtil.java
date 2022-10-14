@@ -1,4 +1,6 @@
-package algorithm.node;
+package algorithm.node.util;
+
+import algorithm.node.bean.ListNode;
 
 public class ListNodeUtil {
 

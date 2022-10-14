@@ -1,4 +1,4 @@
-package algorithm.node;
+package algorithm.node.bean;
 
 import lombok.Data;
 
